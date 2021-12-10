@@ -1,2 +1,2 @@
-# Steam Review Classification
+# Brazilian Literature Vectorized
 linear algebra homework
